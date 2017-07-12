@@ -1,2 +1,6 @@
-this is my learn git practice!!!
-马上到第二次提交了
+# Title: WEB Develop
+## Anther: qijianguo
+## Date: 2017-07-12
+### description: NO PAIN, NO GAIN 
+### webset: www.qijianguo.com
+### QQ: 1633972602@qq.com
