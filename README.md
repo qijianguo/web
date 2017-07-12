@@ -1,5 +1,5 @@
 # Title: WEB Develop
-## Anther: qijianguo
+## Auther: qijianguo
 ## Date: 2017-07-12
 ### description: NO PAIN, NO GAIN 
 ### webset: www.qijianguo.com
